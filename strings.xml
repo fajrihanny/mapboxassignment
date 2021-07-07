@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mapbox Assignment API</string>
+    <string name="button_text">Click Me!</string>
+    <string name="mapbox_access_token"><your_public_token></string>
+</resources>
